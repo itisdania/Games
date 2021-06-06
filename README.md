@@ -1,3 +1,3 @@
 # games
 
-Here i will posting all my code using lua and love2d framework
+code for games i have made using lua 
